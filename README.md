@@ -17,8 +17,8 @@ You're done!
 ## How can i use it?
 
 Just open the `Customi18n.i18n.php` and add your languages there and the appropriate strings you want to use throughout your
-entire MediaWiki installation. I've added some Langage and String examples, so it should be really easy for you to start
-adding own strings.
+entire MediaWiki installation. I've added some language and string examples, so it should be really easy for you to start
+adding your own.
 
 You can use them for exmaple like this
 
@@ -33,9 +33,9 @@ This way you can reuse a string with one changing word.
 
 ### Contributions
 
-If you want to contribute please fork this repo and create a pull-request for your path. Otherwise just create a new issue with sufficient informations so i can fix it myself.
+If you want to contribute please fork this repo and create a pull-request for your patch. Otherwise just create a new issue with sufficient informations so i can fix it myself.
 
 ## Copyright and License
 
-This little tool was made by Martin Seener (c) 2015
-It's licensed under the MIT License. License file attached in this repository.
+This extension was made by Martin Seener (c) 2015
+It's licensed under the MIT License. License file is attached in this repository.
