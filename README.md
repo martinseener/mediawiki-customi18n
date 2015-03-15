@@ -10,7 +10,7 @@ Just clone that repo into your MediaWiki's extension folder like this:
 
 Now open the `LocalSettings.php` in the main folder and add the following line
 
-    require_once('$IP/extensions/Customi18n/Customi18n.php');
+    require_once("$IP/extensions/Customi18n/Customi18n.php");
 
 You're done!
 
